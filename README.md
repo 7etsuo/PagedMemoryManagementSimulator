@@ -1,4 +1,4 @@
-# PagedMemoryManagementSimulator
+# Paged Memory Management Simulator
 
 ![Alt text](image.png)
 
